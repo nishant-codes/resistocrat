@@ -1,0 +1,17 @@
+name: amr-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.7
+  - streamlit
+  - scikit-learn
+  - pandas
+  - joblib
+  - biopython
+  - matplotlib
+  - abricate
+  - pip
+  - pip:
+      - click        # if you later add a CLI
+      - pytest       # for tests
