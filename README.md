@@ -1,4 +1,4 @@
-# resistocrat
+# Resistocrat
 ML-based antimicrobial resistant phenotype predictor correlating with the genotypic info
 Once you’ve cloned the repo and installed dependencies, follow these steps to launch the interact>
 
@@ -12,5 +12,6 @@ Once you’ve cloned the repo and installed dependencies, follow these steps to 
 # run by command: streamlit run streamlit_app2.py
 You can now view your Streamlit app in your browser.
 
-Local URL: http://localhost:8501
-Network URL: http://192.168.x.x:8501
+# Upload your genome assembly and Viola!
+
+(c) All rights reserved.
