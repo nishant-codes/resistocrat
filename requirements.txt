@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pandas
+joblib
+biopython
+matplotlib
+click
+pytest

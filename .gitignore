@@ -1,0 +1,21 @@
+# Byte‐compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Conda envs
+env/
+venv/
+amr-env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Mac
+.DS_Store
+
+# Models folder (you can remove the ! if you want to commit your .joblib models)
+models/
+
+# Streamlit temp files
+*.tsv
