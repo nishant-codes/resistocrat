@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="resistocrat.png" alt="Resistocrat Header" width="600">
+</p>
 # 🧬 Resistocrat: AMR Phenotype Predictor
 
 **Resistocrat** is a machine learning-based tool designed to predict Antimicrobial Resistance (AMR) phenotypes directly from bacterial genome assemblies. By correlating genotypic information (identified AMR genes) with pre-trained Random Forest models, it provides rapid and accurate predictions for a wide range of antibiotics.
@@ -56,7 +59,7 @@ abricate --list
 To launch the interactive web application:
 
 ```bash
-streamlit run streamlit_app2.py
+streamlit run streamlit_app.py
 ```
 
 1.  Open your browser to the local URL provided by Streamlit (usually `http://localhost:8501`).
