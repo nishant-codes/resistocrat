@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#">
+  <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/46cb15ac-b05e-488c-9534-6be34ee02935">
+    <dcat:mediaType>
+      <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/html"/>
+    </dcat:mediaType>
+    <dct:title xml:lang="it-t-en-t0-mtec">Database interattivo di resistenza antimicrobica</dct:title>
+    <dct:description xml:lang="en">Data from the ECDC Surveillance Atlas</dct:description>
+    <dct:description xml:lang="fi-t-en-t0-mtec">ECDC:n valvontaatlaksen tiedot</dct:description>
+    <dct:title xml:lang="lv-t-en-t0-mtec">Interaktīvā datubāze pret antimikrobiālajiem līdzekļiem</dct:title>
+    <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE"/>
+    <dct:description xml:lang="hu-t-en-t0-mtec">Az ECDC Felügyeleti Atlaszából származó adatok</dct:description>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+    </dct:format>
+    <dct:title xml:lang="fi-t-en-t0-mtec">Mikrobilääkeresistenssin interaktiivinen tietokanta</dct:title>
+    <dct:title xml:lang="el-t-en-t0-mtec">Διαδραστική βάση δεδομένων για τη μικροβιακή αντοχή</dct:title>
+    <dct:description xml:lang="lt-t-en-t0-mtec">ECDC priežiūros atlaso duomenys</dct:description>
+    <dct:title xml:lang="pl-t-en-t0-mtec">Interaktywna baza danych oporności na środki przeciwdrobnou</dct:title>
+    <dct:description xml:lang="pl-t-en-t0-mtec">Dane z atlasu nadzoru ECDC</dct:description>
+    <dct:description xml:lang="et-t-en-t0-mtec">Haiguste Ennetamise ja Tõrje Euroopa Keskuse järelevalveatlasest pärit andmed</dct:description>
+    <dct:description xml:lang="ro-t-en-t0-mtec">Date din Atlasul de supraveghere al ECDC</dct:description>
+    <dct:title xml:lang="pt-t-en-t0-mtec">Base de dados interativa sobre resistência antimicrobiana</dct:title>
+    <dct:description xml:lang="sk-t-en-t0-mtec">Údaje z atlasu dohľadu ECDC</dct:description>
+    <dct:description xml:lang="pt-t-en-t0-mtec">Dados do Atlas de Vigilância do ECDC</dct:description>
+    <dct:description xml:lang="da-t-en-t0-mtec">Data fra ECDC's overvågningsatlas</dct:description>
+    <dct:title xml:lang="bg-t-en-t0-mtec">Интерактивна база данни за антимикробна резистентност</dct:title>
+    <dct:title xml:lang="da-t-en-t0-mtec">Interaktiv database over antimikrobiel resistens</dct:title>
+    <dct:title xml:lang="de-t-en-t0-mtec">Interaktive Datenbank zur Antibiotikaresistenz</dct:title>
+    <dct:title xml:lang="cs-t-en-t0-mtec">Interaktivní databáze antimikrobiální rezistence</dct:title>
+    <dct:title xml:lang="ga-t-en-t0-mtec">Bunachar sonraí idirghníomhach ar fhrithsheasmhacht in aghaidh ábhair fhrithmhiocróbacha</dct:title>
+    <dct:description xml:lang="de-t-en-t0-mtec">Daten aus dem ECDC-Überwachungsatlas</dct:description>
+    <dct:title xml:lang="fr-t-en-t0-mtec">Base de données interactive sur la résistance aux antimicrobiens</dct:title>
+    <dct:description xml:lang="ga-t-en-t0-mtec">Sonraí ó Atlas Faireachais ECDC</dct:description>
+    <dct:title xml:lang="es-t-en-t0-mtec">Base de datos interactiva de resistencia a los antimicrobianos</dct:title>
+    <dcat:accessURL rdf:resource="http://ecdc.europa.eu/en/healthtopics/antimicrobial_resistance/database/Pages/table_reports.aspx"/>
+    <dct:description xml:lang="hr-t-en-t0-mtec">Podaci ECDC-ova atlasa za nadzor</dct:description>
+    <dct:title xml:lang="sv-t-en-t0-mtec">Interaktiv databas för antimikrobiell resistens</dct:title>
+    <adms:status>
+      <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+    </adms:status>
+    <dct:identifier>http://data.europa.eu/88u/distribution/12322e9f-30a2-449f-8b8f-adcde3f75daf</dct:identifier>
+    <dct:title xml:lang="hr-t-en-t0-mtec">Interaktivna baza podataka o antimikrobnoj otpornosti</dct:title>
+    <dct:title xml:lang="en">Antimicrobial resistance  interactive database </dct:title>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2016-04-07T15:46:35</dct:issued>
+    <dct:title xml:lang="nl-t-en-t0-mtec">Interactieve database met antimicrobiële resistentie</dct:title>
+    <dct:rights>
+      <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    </dct:rights>
+    <dct:description xml:lang="it-t-en-t0-mtec">Dati dell'atlante di sorveglianza dell'ECDC</dct:description>
+    <dct:description xml:lang="bg-t-en-t0-mtec">Данни от атласа за наблюдение на ECDC</dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+    </dct:license>
+    <dct:description xml:lang="el-t-en-t0-mtec">Δεδομένα από τον Άτλαντα επιτήρησης του ECDC</dct:description>
+    <dct:title xml:lang="sk-t-en-t0-mtec">Interaktívna databáza antimikrobiálnej rezistencie</dct:title>
+    <dct:title xml:lang="lt-t-en-t0-mtec">Sąveikioji atsparumo antimikrobinėms medžiagoms duomenų bazė</dct:title>
+    <dct:title xml:lang="et-t-en-t0-mtec">Antimikroobse resistentsuse interaktiivne andmebaas</dct:title>
+    <dct:description xml:lang="fr-t-en-t0-mtec">Données de l’Atlas de surveillance de l’ECDC</dct:description>
+    <dct:description xml:lang="sv-t-en-t0-mtec">Uppgifter från ECDC:s övervakningsatlas</dct:description>
+    <dct:title xml:lang="hu-t-en-t0-mtec">Antimikrobiális rezisztencia interaktív adatbázisa</dct:title>
+    <dct:description xml:lang="cs-t-en-t0-mtec">Údaje z atlasu dohledu střediska ECDC</dct:description>
+    <dct:description xml:lang="es-t-en-t0-mtec">Datos del Atlas de Vigilancia del ECDC</dct:description>
+    <dct:description xml:lang="nl-t-en-t0-mtec">Gegevens van de ECDC Surveillance Atlas</dct:description>
+    <dct:title xml:lang="mt-t-en-t0-mtec">Bażi tad-data interattiva dwar ir-reżistenza antimikrobika</dct:title>
+    <dcat:downloadURL rdf:resource="http://ecdc.europa.eu/en/healthtopics/antimicrobial_resistance/database/Pages/table_reports.aspx"/>
+    <dct:description xml:lang="sl-t-en-t0-mtec">Podatki nadzornega atlasa ECDC</dct:description>
+    <dct:title xml:lang="ro-t-en-t0-mtec">Baza de date interactivă privind rezistența la antimicrobiene</dct:title>
+    <dct:description xml:lang="mt-t-en-t0-mtec">Data mill-Atlas ta’ Sorveljanza tal-ECDC</dct:description>
+    <dct:title xml:lang="sl-t-en-t0-mtec">Interaktivna zbirka podatkov o protimikrobni odpornosti</dct:title>
+    <dct:description xml:lang="lv-t-en-t0-mtec">ECDC Uzraudzības atlanta dati</dct:description>
+  </dcat:Distribution>
+</rdf:RDF>

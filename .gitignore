@@ -1,21 +1,36 @@
-# Byte‐compiled / cache
+# --- Resistocrat Git Ignore ---
+
+# Byte-compiled / cache
 __pycache__/
 *.py[cod]
 *$py.class
+.ipynb_checkpoints/
+features.txt
 
-# Conda envs
+# Virtual Environments
+.venv/
 env/
 venv/
 amr-env/
 
-# Jupyter
-.ipynb_checkpoints
-
-# Mac
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
-# Models folder (you can remove the ! if you want to commit your .joblib models)
-models/
+# --- Large Genomic Data (EXCEED 100MB LIMIT) ---
+# These specific files must be hosted elsewhere (e.g., Zenodo/Drive)
+AMR_genotypic_data/isolates.tsv
+AMR_genotypic_data/isolate_amr.csv
+AMR_genotypic_data/isolate_amr.tsv
 
-# Streamlit temp files
-*.tsv
+# --- Local Secrets ---
+.env
+
+# --- Streamlit ---
+.streamlit/
+static/
