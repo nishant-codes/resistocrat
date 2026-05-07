@@ -1,0 +1,71 @@
+Antibiotic,N_samples,CV_acc,Test_acc
+vancomycin,329,0.985,1.0
+benzylpenicillin,32,0.88,1.0
+tigecycline,146,0.974,1.0
+ticarcillin,30,1.0,1.0
+spectinomycin,725,1.0,1.0
+norfloxacin,92,0.903,1.0
+florfenicol,3858,1.0,1.0
+ethambutol,1267,0.991,0.992
+chloramphenicol,14462,0.989,0.99
+nalidixic acid,17713,0.991,0.99
+sulfisoxazole,12071,0.989,0.989
+telithromycin,2951,0.98,0.986
+kanamycin,5066,0.981,0.985
+ciprofloxacin,24855,0.98,0.984
+tetracycline,13079,0.983,0.984
+teicoplanin,311,0.984,0.984
+erythromycin,5201,0.973,0.984
+minocycline,314,0.984,0.984
+ceftiofur,5976,0.984,0.984
+ceftriaxone,20023,0.981,0.981
+cefixime,735,0.981,0.98
+isoniazid,1275,0.596,0.98
+gentamicin,23117,0.975,0.977
+ampicillin,19412,0.974,0.977
+amoxicillin-clavulanic acid,16756,0.975,0.977
+meropenem,10056,0.977,0.975
+azithromycin,16095,0.98,0.973
+amikacin,9101,0.97,0.973
+cefoxitin,16508,0.975,0.972
+amoxicillin,319,0.965,0.969
+rifampin,2206,0.972,0.968
+trimethoprim-sulfamethoxazole,712,0.94,0.965
+penicillin,1119,0.968,0.964
+levofloxacin,4356,0.96,0.963
+clindamycin,4999,0.965,0.962
+cefotaxime-clavulanic acid,370,0.963,0.959
+imipenem,3798,0.948,0.957
+oxacillin,789,0.932,0.956
+ertapenem,3751,0.965,0.952
+polymyxin B,314,0.904,0.952
+cefotaxime,3097,0.944,0.952
+sulfamethoxazole,517,0.973,0.952
+streptomycin,13971,0.948,0.946
+linezolid,983,0.955,0.944
+aztreonam,4094,0.937,0.943
+tobramycin,528,0.905,0.943
+ceftazidime-clavulanic acid,342,0.971,0.942
+cefazolin,4317,0.931,0.936
+mupirocin,303,0.938,0.934
+fosfomycin,73,0.842,0.933
+pyrazinamide,143,0.921,0.931
+ampicillin-sulbactam,1536,0.919,0.929
+daptomycin,777,0.931,0.929
+cefpodoxime,276,0.918,0.929
+fusidic acid,273,0.982,0.927
+cefuroxime,199,0.962,0.925
+cephalothin,192,0.922,0.923
+doripenem,484,0.876,0.918
+colistin,1288,0.913,0.915
+ceftazidime,7215,0.908,0.915
+moxifloxacin,234,0.936,0.915
+ceftazidime-avibactam,584,0.891,0.915
+nitrofurantoin,558,0.868,0.911
+ceftaroline,330,0.883,0.909
+cefotetan,214,0.936,0.884
+cefepime,5458,0.881,0.884
+delafloxacin,31,0.87,0.857
+ceftolozane-tazobactam,405,0.812,0.852
+piperacillin-tazobactam,1235,0.783,0.798
+doxycycline,309,0.81,0.71
