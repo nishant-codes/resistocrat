@@ -29,7 +29,7 @@ Since the project relies on `ABRicate` (available via Bioconda), we recommend us
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/resistocrat.git
+git clone https://github.com/nishant-codes/resistocrat.git
 cd resistocrat
 ```
 
