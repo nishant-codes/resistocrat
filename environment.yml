@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - python=3.7
+  - python=3.10
   - streamlit
   - scikit-learn
   - pandas
@@ -12,6 +12,7 @@ dependencies:
   - matplotlib
   - abricate
   - pip
+  - flake8
   - pip:
       - click        # if you later add a CLI
       - pytest       # for tests
